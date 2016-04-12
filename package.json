@@ -1,0 +1,15 @@
+{
+  "name": "betting-game",
+  "version": "1.0.0",
+  "description": "betting game",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nina Winkler",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.0.4",
+    "prompt-sync-history": "^1.0.1"
+  }
+}
